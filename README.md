@@ -29,7 +29,7 @@ This repository contains the code for `getgrass-bot`, a bot designed to establis
 
 ## Usage + Proxy
 
-1. Buy Premium Proxy for 100% network status grass Visit[https://www.birdproxies.com/@IDWR]
+1. Buy Premium Proxy for 100% network status grass [Visit] (https://www.birdproxies.com/@IDWR)
 
 2. Obtain your user ID from the Getgrass website:
 
