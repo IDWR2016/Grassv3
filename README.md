@@ -58,7 +58,7 @@ This repository contains the code for `getgrass-bot`, a bot designed to establis
    socks5://username:password@hostname:port
    ```
 
-5. To run the `getgrass-bot`, execute the following command in your terminal:
+5. To run the `Grass V3`, execute the following command in your terminal:
 
    ```bash
    python bot.py
